@@ -1,3 +1,7 @@
+# Environment
+
+brew install libomp
+
 # wids2021
 
 columns                  , total   , nan_rows, %    
