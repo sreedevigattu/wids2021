@@ -2,7 +2,7 @@
 # WiDS Datathon 2021
 
 - [WiDS Women in Data Science (WiDS) Datathon 2021](https://www.kaggle.com/c/widsdatathon2021)
-The WiDS Datathon 2021 focuses on patient health, with an emphasis on the chronic condition of diabetes, through data from MIT’s GOSSIS (Global Open Source Severity of Illness Score) initiative. Brought to you by the WiDS Worldwide team at Stanford, the West Big Data Innovation Hub, and the WiDS Datathon Committee, this year’s datathon is open until March 1, 2021. Winners will be announced at the WiDS Conference via livestream, reaching a community of 100,000+ data enthusiasts across more than 85 countries.
+The WiDS Datathon 2021 focuses on patient health, with an emphasis on the chronic condition of diabetes, through data from MIT’s GOSSIS (Global Open Source Severity of Illness Score) initiative. 
 
 - [Submission](https://www.kaggle.com/competitions/widsdatathon2021/leaderboard?search=theDataReaders)
 
